@@ -1,0 +1,67 @@
+body
+{
+	background: linear-gradient(to right, #6b5b95 -100%, #2e4a62 100%);
+	color: white;
+}
+
+
+.pct h2:hover
+{
+	color: white;
+	transition :1s;
+	font-size: 30px;
+}
+
+h2
+{
+	font-family: Merienda One;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h1
+{
+	font-family: Lemon;
+	font-size: 26px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.top
+{
+	margin: 10px;
+	text-align: center;
+}
+
+.intro
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: Merienda one;
+}
+
+.aboutme a
+{
+	color: white;
+}
+
+.aboutme a:hover
+{
+
+}
+
+.plug a
+{
+	color: white;
+	margin-left: 20px;
+}
+
+.plug a:hover
+{
+	color: black;
+	transition: 0.5s;
+}
