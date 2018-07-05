@@ -1,13 +1,21 @@
+*
+{
+	margin:auto;
+}
 body
 {
+	height: 100%;
 	background: linear-gradient(to right, #6b5b95 -100%, #2e4a62 100%);
 	color: white;	
+	background-size: cover;
+
 }
 
 h1
 {
 	font-family: 'Merienda One', cursive;
 }
+
 .tophead
 {
 	font-family: sans-serif;
@@ -39,9 +47,10 @@ h1
 	font-family: 'Arima Madurai', cursive;
 	text-align: center;
 	height: auto;
-	margin: 0px 100px 0px 470px;
+	margin: 10px;
 	font-size: 18px;
-	text-decoration: none
+	text-decoration: none;
+
 }
 
 a
@@ -58,4 +67,13 @@ a:hover
 	transition: 0.5s;
 	color: white;
 }
+
+img
+{
+	display: inline-block;
+	width: 100%;
+ 	height: auto;
+}
+
+
 
