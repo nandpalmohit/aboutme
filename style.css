@@ -44,9 +44,10 @@ h1
 	font-family: 'Arima Madurai', cursive;
 	text-align: center;
 	height: auto;
-	margin: 0px 100px 0px 470px;
+	margin: 10px;
 	font-size: 18px;
-	text-decoration: none
+	text-decoration: none;
+
 }
 
 a
