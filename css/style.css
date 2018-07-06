@@ -1,14 +1,11 @@
-*
-{
-	margin:auto;
-}
+
 body
 {
 	height: 100%;
-	background: linear-gradient(to right, #6b5b95 -100%, #2e4a62 100%);
+	background: linear-gradient(to left,#136a8a,#267871);
+
 	color: white;	
 	background-size: cover;
-
 }
 
 h1
@@ -73,6 +70,7 @@ img
 	display: inline-block;
 	width: 100%;
  	height: auto;
+ 	border-radius: 20px;
 }
 
 
