@@ -1,2 +1,2 @@
 # aboutme
-Nandpal Mohit-portfolio
+Nandpal Mohit- Quick portfolio
